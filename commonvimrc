@@ -1,0 +1,28 @@
+let mapleader="\<Space>"
+
+set nocompatible
+set noundofile
+set nobackup
+set noswapfile
+
+set showmode
+set showcmd
+set ruler
+set number
+set wildmenu
+set wildmode=longest:list,full
+
+syntax on
+
+set ic
+set hlsearch
+set incsearch
+
+set autoindent
+set tabstop=2
+set softtabstop=2
+set shiftwidth=4
+
+set scrolloff=5
+
+:nnoremap Q <Nop>

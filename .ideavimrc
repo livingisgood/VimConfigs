@@ -1,0 +1,9 @@
+source ~/vimconfigs/commonvimrc
+
+
+map <leader>d <Action>(Debug)
+map <leader>r <Action>(FindUsages)>
+map <leader>z <Action>(ToggleDistractionFreeMode>
+map <leader>s <Action>(SelectInProjectView)
+
+map <leader>o <Action>(FileStructurePopup)
